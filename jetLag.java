@@ -1,3 +1,5 @@
+// paiza c112 時差ボケ スキルチェック回答
+
 import java.util.*;
 
 
